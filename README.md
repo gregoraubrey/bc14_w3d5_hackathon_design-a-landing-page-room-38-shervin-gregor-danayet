@@ -1,3 +1,6 @@
+**This was the third hackathon we did at School of Code on 20230331. See the instructions we were given below.**
+
+
 # Hackathon - Use your UI/UX skills to design your bootcamp landing page
 
 For this hackathon, you'll be using the bootcamp idea we brainstormed during the week.
